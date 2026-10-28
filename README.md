@@ -1,3 +1,10 @@
+# Moved
+
+This demo now lives at **https://github.com/ytimocin/fleet-examples/tree/main/dynamo**.
+This repository is archived and kept only so old links keep working.
+
+---
+
 # Dynamo on a Fleet: one model, two GPU regions, one endpoint
 
 A short demo of running [NVIDIA Dynamo](https://github.com/ai-dynamo/dynamo) inference across
